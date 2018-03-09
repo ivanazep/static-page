@@ -1,0 +1,19 @@
+{
+ "name": "ivana",
+ "version": "0.0.0",
+ "description": "static-heroku-nodejs\r ====================",
+ "main": "app.js",
+ "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+   "type": "git",
+   "url": "git@github.com:ivanaur/static-page.git"
+ },
+ "author": "Ivana Urosevic",
+ "license": "ISC",
+ "bugs": {
+   "url": "https://github.com/ivanaur/static-page.git/issues"
+ },
+ "homepage": "https://app-new-93.herokuapp.com/"
+}
